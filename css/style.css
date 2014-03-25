@@ -1,0 +1,50 @@
+#firstpar { 
+	background-color: #E8933A;
+    border-radius: 2px;
+    color: #FFFFFF;
+    display: inline-block;
+    font: 700 9px/11px Arial;
+    margin: 4px 0 0 4px;
+    padding: 3px 6px;
+    text-transform: uppercase;
+}
+
+#secondpar {
+	background-color: #E8933A;
+    border-radius: 2px;
+    color: #000000;
+    display: inline-block;
+    font: 700 9px/11px Arial;
+    margin: 4px 0 0 4px;
+    padding: 3px 6px;
+    text-transform: uppercase;
+}
+
+
+.textclass {
+	background-color: #EFEFEF;
+    color: blue;
+    display: inline-block;
+    font: 200 9px/11px Arial;
+    margin: 4px 0 0 4px;
+    padding: 3px 6px;
+    text-transform: lowercase;
+}
+
+.testclass {
+	background-color: #EFEFEF;
+    color: #000000;
+    display: inline-block;
+    font: 200 9px/11px Arial;
+    margin: 4px 0 0 4px;
+    padding: 3px 6px;
+    text-transform: lowercase;
+}
+
+.classtwo {
+
+}
+
+.classthree {
+
+}
